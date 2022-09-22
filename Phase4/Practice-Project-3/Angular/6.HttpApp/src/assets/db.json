@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Amaravathy",
+      "username": "Amar",
+      "email": "amar@gmail.com",
+      "phone": "+91 89787878783",
+      "website": "www.simplilearn.com"
+       
+    },
+    {
+        "id": 2,
+        "name": "Chandru",
+        "username": "chandru",
+        "email": "chandru@gmail.com",
+        "phone": "+91 9878787878",
+        "website": "www.simplilearn.com"
+         
+      },
+      {
+        "id": 3,
+        "name": "Janani",
+        "username": "janani",
+        "email": "janani@gmail.com",
+        "phone": "+91 7689547632",
+        "website": "www.simplilearn.com"
+         
+      },
+      {
+        "id": 4,
+        "name": "Jenifer",
+        "username": "jenifer",
+        "email": "jenifer@gmail.com",
+        "phone": "+91 9876564534",
+        "website": "www.simplilearn.com"
+         
+      },
+      {
+        "id": 5,
+        "name": "sabari",
+        "username": "sabari",
+        "email": "sabari@gmail.com",
+        "phone": "+91 7867564323",
+        "website": "www.simplilearn.com"
+         
+      }
+     
+  ]
