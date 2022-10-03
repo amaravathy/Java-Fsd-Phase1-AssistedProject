@@ -6573,3 +6573,25 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-01 11:53:49.050
 !MESSAGE Boot LS startup time from start to initialized: 5906ms
+
+!ENTRY org.eclipse.core.resources 2 2 2022-10-01 11:58:46.395
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-10-01 11:58:46.395
+!MESSAGE The project description file (.project) for 'TestNG' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-10-01 11:58:46.395
+!MESSAGE The project description file (.project) for 'seleniumwebdriver' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-01 11:59:13.986
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-01 11:59:13.988
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@a781763[org.springframework.tooling.boot.ls:1.38.0.202208110704(id=928)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-01 11:59:13.991
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-01 11:59:17.128
+!MESSAGE Boot LS startup time from start to initialized: 3134ms
+
+!ENTRY org.eclipse.ui 2 2 2022-10-01 12:00:30.885
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
