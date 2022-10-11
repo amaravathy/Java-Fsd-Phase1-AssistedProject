@@ -5,5 +5,12 @@
 		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Java-FSD-Phase1 Project\Phase5\PhaseEnd-Project-Ecommerce Automation\Automation"/>
+			<item value="D:\Java-FSD-Phase1 Project\Phase5\PhaseEnd-Project-FlipkartAutomation1\Automation"/>
+			<item value="D:\Java-FSD-Phase1 Project\Phase5\PhaseEnd-Project-FlipkartAutomation\FlipkartAutomation"/>
+			<item value="D:\Java-FSD-Phase1 Project\Phase5\FlipkartAutomation\src"/>
+			<item value="C:\Users\User\Downloads\Automate-an-E-Commerce-Web-Application-master\Automate-an-E-Commerce-Web-Application-master\Automation"/>
+		</list>
 	</section>
 </section>

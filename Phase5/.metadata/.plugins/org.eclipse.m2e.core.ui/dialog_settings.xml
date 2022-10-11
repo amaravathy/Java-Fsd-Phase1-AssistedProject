@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Java-FSD-Phase1 Project\Phase5\PhaseEnd-Project-FlipkartAutomation\FlipkartAutomation\pom.xml"/>
 			<item value="D:\Java-FSD-Phase1 Project\Phase5\seleniumwebdriver"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,6 +27,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.simplilearn.demo"/>
+			<item value="com.simplilearn.demo.FlipkartAutomation"/>
 			<item value="com.simplilearn.demo.WebappautomateTestNG"/>
 			<item value="AutomatewebapptestNG"/>
 		</list>
@@ -34,6 +37,8 @@
 			<item value="AutomatewebapptestNG"/>
 		</list>
 		<list key="artifactId">
+			<item value="Automation"/>
+			<item value="FlipkartAutomation"/>
 			<item value="WebappautomateTestNG"/>
 			<item value="com.simplilearn.demo"/>
 		</list>
